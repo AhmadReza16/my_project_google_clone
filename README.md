@@ -1,12 +1,60 @@
-# React + Vite
+# 🔎 Google Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Google homepage clone** built with **React** and **Tailwind CSS**.  
+This project was created for practice and learning purposes, inspired by tutorials from **JavaScript Mastery**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Clean and minimal design inspired by Google
+- **Responsive layout** with Tailwind CSS
+- Component-based structure using React
+- Fast development and build with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [Vite](https://vitejs.dev/)  
+
+---
+
+## 📦 Installation & Setup
+
+bash
+# Clone the repository
+git clone https://github.com/AhmadReza16/my_project_google_clone.git
+
+cd my_project_google_clone
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+----
+
+## 📸 Screenshots
+Here’s a preview of the project:
+Lighy Mod:
+<img width="1366" height="768" alt="Screenshot Google-Clone-1" src="https://github.com/user-attachments/assets/665cd2f1-053a-4dbf-a97e-8c5d5cf431f7" />
+
+Dark Mod:
+<img width="1366" height="768" alt="Screenshot Google-Clone-2" src="https://github.com/user-attachments/assets/0ee044ea-764c-4938-9cbc-209cc0cd4dda" />
+
+----
+
+📌 Notes
+
+This project was mainly built for educational purposes and as a practice project for React and Tailwind CSS.
+Future improvements could include adding a search functionality using an API or showing real search results.
+
+---
+
+Author:
+
+GitHub: @AhmadReza16
