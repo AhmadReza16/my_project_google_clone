@@ -40,7 +40,7 @@ npm run dev
 
 ## 📸 Screenshots
 Here’s a preview of the project:
-Lighy Mod:
+
 <img width="1366" height="725" alt="Screenshot Google-Clone-1" src="https://github.com/user-attachments/assets/e513a574-250f-4dd2-a091-f9f19d2de96a" />
 
 
