@@ -41,10 +41,12 @@ npm run dev
 ## 📸 Screenshots
 Here’s a preview of the project:
 Lighy Mod:
-<img width="1366" height="768" alt="Screenshot Google-Clone-1" src="https://github.com/user-attachments/assets/665cd2f1-053a-4dbf-a97e-8c5d5cf431f7" />
+<img width="1366" height="725" alt="Screenshot Google-Clone-1" src="https://github.com/user-attachments/assets/e513a574-250f-4dd2-a091-f9f19d2de96a" />
+
 
 Dark Mod:
-<img width="1366" height="768" alt="Screenshot Google-Clone-2" src="https://github.com/user-attachments/assets/0ee044ea-764c-4938-9cbc-209cc0cd4dda" />
+<img width="1366" height="723" alt="Screenshot Google-Clone-2" src="https://github.com/user-attachments/assets/d2525166-3a3e-4c16-af75-e4b721cf635c" />
+
 
 ----
 
